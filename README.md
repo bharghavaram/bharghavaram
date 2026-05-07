@@ -1,4 +1,4 @@
-# Hi, I'm Bhargava Ram Vemuri 👋
+# Hi, I'm Bharghava Ram Vemuri 👋
 
 ### Generative AI Engineer | Machine Learning Engineer | LLMOps | RAG | Multi-Agent Systems
 
